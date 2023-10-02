@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "create-react-app": "^5.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latusocto/csc307_reactapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/latusocto/csc307_reactapp/issues"
+  },
+  "homepage": "https://github.com/latusocto/csc307_reactapp#readme"
 }
